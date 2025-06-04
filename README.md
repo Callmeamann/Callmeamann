@@ -7,7 +7,7 @@ I'm an undergrad at Graphic Era Hill University, dancing through the wonderful w
 - 👯 Open for a duet on open-source projects that radiate positivity.
 - 🤔 Seeking help with mastering the art of optimizing algorithms for those colossal datasets.
 - 💬 Chat with me about anything under the tech sun - software dev, coding competitions, you name it!
-- 📫 Drop a line at sde.amangusain@gmail.com or connect with me on LindedIn - aman-gusain-10321625a.
+- 📫 Drop a line at amangusain000@gmail.com or connect with me on LindedIn - aman-gusain-10321625a.
 - ⚡ Fun fact: I'm a puzzle enthusiast, solving brain teasers is my secret recipe for joy!
 
 🚀 Dive into my repositories for a taste of my coding adventures. From crafting software dreams to tackling coding challenges, there's a flavor for everyone.
