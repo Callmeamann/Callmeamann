@@ -1,6 +1,6 @@
 # Hello, I'm Aman Gusain !! 👋
 
-I'm an undergrad at Graphic Era Hill University, dancing through the wonderful world of tech. From unraveling complex algorithms to sculpting creative code, I'm on a journey of constant exploration.
+I'm completing my undergrad at Graphic Era Hill University, dancing through the wonderful world of tech. From unraveling complex algorithms to sculpting creative code, I'm on a journey of constant exploration.
 
 - 🔭 Currently, I'm in a delightful tango with machine learning algorithms.
 - 🌱 I'm cultivating my understanding of advanced computer vision techniques, sprinkled with a dash of curiosity.
